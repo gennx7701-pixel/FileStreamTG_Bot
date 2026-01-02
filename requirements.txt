@@ -1,0 +1,17 @@
+# Telegram Bot Framework
+pyrogram>=2.0.106
+tgcrypto>=1.2.5
+
+# MongoDB Async Driver
+motor>=3.3.2
+
+# Web Server
+aiohttp>=3.9.1
+aiofiles>=23.2.1
+jinja2>=3.1.2
+
+# Environment & Configuration
+python-dotenv>=1.0.0
+
+# Utilities
+cachetools>=5.3.2
